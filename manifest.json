@@ -1,0 +1,17 @@
+{
+  "name": "Cửa Hàng Rượu Vang nhập khẩu Wineshop",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "description": "Hệ thống Cửa Hàng Rượu Vang nhập khẩu chính hãng Wineshop",
+  "homepage_url": "https://wineshop.vn",
+  "icons": {
+    "16": "icons/icon17.png",
+    "48": "icons/icon49.png",
+    "128": "icons/icon129.png"
+  },
+  "default_locale": "en",
+  "background": {
+    "page": "src/bg/background.html",
+    "persistent": true
+  }
+}
